@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+runs/
+datasets/
+*.zip
+.DS_Store
